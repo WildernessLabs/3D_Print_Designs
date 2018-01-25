@@ -1,0 +1,7 @@
+# Mac Stuff
+.DS_Store
+
+# AutoCad
+*.bak
+*.dwl
+*.dwl2
