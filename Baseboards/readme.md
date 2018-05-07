@@ -14,7 +14,4 @@ For those with dualstrusion heads, we've included both the base and the logo as 
 
 ![](Appliance_Control_Baseboard/Appliance_Control_Board.jpg)
 
-This board is designed to hold a [2 channel](http://amzn.to/2xBiHSM) or [4 channel](http://amzn.to/2y4CDir) Keyestudio relay as well as [screw terminal blocks](http://amzn.to/2y3Vqdx). 
-
- 	<li><a href="">Half size breadboard</a></li>
- 	<li>Keyes relay (<a href="">2 channel</a>) or (<a href="">4 channel</a>)</li>
+This board is designed to hold a [2 channel](http://amzn.to/2xBiHSM) or [4 channel](http://amzn.to/2y4CDir) Keyestudio relay as well as [screw terminal blocks](http://amzn.to/2y3Vqdx).
