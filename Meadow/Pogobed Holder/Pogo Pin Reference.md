@@ -7,9 +7,9 @@
 | Sleeve | S13-503 |
 | Convex Head | P13-2123 |
 
-Minimum Height = 22.5mm
-Maximum Height = 25mm
-Nominal Height = 23.5mm
+Minimum Height = 19mm
+Maximum Height = 21.5mm
+Nominal Height = 20mm
 
 Travel Length = 2.65mm
 Sleeve Length = 12.75mm + 5mm = 17.75mm
