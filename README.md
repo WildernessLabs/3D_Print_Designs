@@ -4,17 +4,19 @@ Repository of 3D printable designs such as baseboards, enclosures, etc., for Net
 
 ## Meadow + Netduino Reference Models
 
-Building an enclosure or integrating Netduino into project? These models can help by providing header, bolt hole, and peripheral dimensions.
+Building an enclosure or integrating Meadow into project? These models can help by providing header, bolt hole, and peripheral dimensions.
 
 ![](Meadow/Reference_Models/Meadow_F7_Micro.png)
 
-## [Baseboards and Shelves](Baseboards/)
+## [Baseboards](Baseboards/)
 
 Check out our cool [baseboards](Baseboards/) for quick prototyping!
 
 ![](Baseboards/Standard_Halfsize_Breadboard/Meadow_Baseboards.jpg)
 
-![](Baseboards/Standard_Halfsize_Breadboard/Meadow_Baseboard_Shelf.jpg)
+## [Circuit Shelves](Circuit_Shelves)
+
+![](Circuit_Shelves/Meadow_F7_Micro/Halfsize_Breadboard_Shelves/Meadow_Baseboard_Shelf.jpg)
 
 ## [Appliance Hack Enclosure (Netduino-only)](Enclosures/ApplianceControl)
 

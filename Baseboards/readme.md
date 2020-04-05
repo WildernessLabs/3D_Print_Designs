@@ -1,28 +1,18 @@
-# Baseboards + Shelves
+# Baseboards
 
 Here you'll find prototype baseboards for Meadow and Netduino. These baseboards are designed specifically to hold a Meadow or Netduino and a standard [Half+ size breadboard](http://amzn.to/2fMEgGH):
 
 ![](Standard_Halfsize_Breadboard/Meadow_Baseboards.jpg)
 
-Additionally, there is a Meadow baseboard shelf to help w/circuit organization:
-
-![](Standard_Halfsize_Breadboard/Meadow_Baseboard_Shelf.jpg)
-
-Included in here are both the source files (as AutoCad `.dwg` files) and the print-ready `.stl` files.
-
 For those with dual extruders, we've included both the base and the logo as separate files for dual extrusion merging.  
 
-# Meadow Baseboards and Shelf
+# Meadow Baseboards
 
 Use the `Baseboard_Meadow.stl` file to print:
 
 ![](Standard_Halfsize_Breadboard/Baseboard_Meadow.png)
 
 The logo for dual extrusion is in `Baseboard_Meadow_Logo.stl`.
-
-The shelf can be found as `Baseboard_Circuit-Shelf.stl`, and has nubs on the bottom to allow stacking:
-
-![](Standard_Halfsize_Breadboard/Shelf_Wireframe.png)
 
 
 # Netduino Baseboards
