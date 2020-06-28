@@ -6,7 +6,7 @@ Repository of 3D printable designs such as baseboards, enclosures, etc., for Net
 
 Building an enclosure or integrating Meadow into project? These models can help by providing header, bolt hole, and peripheral dimensions.
 
-![](Meadow/Reference_Models/Meadow_F7_Micro.png)
+![](Meadow/Reference_Models/Meadow_F7_Micro_F360.png)
 
 ## [Baseboards](Baseboards/)
 
