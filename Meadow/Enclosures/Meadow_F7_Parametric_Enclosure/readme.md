@@ -11,13 +11,13 @@ A 3D printable, easily modifiable Meadow F7 enclosure. To modify, first modify t
 
 This enclosure is easily modifable with the following parameters/variables (all sizes in `mm`):
 
-* **InternalWidth** - The size of the internal cavity in the `X` axis.
-* **InternalDepth** - The size of the internal cavity in the `Y` axis.
-* **InternalHeight** - The size of the internal cavity in the `Z` axis.
+* **InternalWidth** - The size of the internal cavity in the `X` axis. Must be `> ~78mm`
+* **InternalDepth** - The size of the internal cavity in the `Y` axis. Must be `> ~27mm`
+* **InternalHeight** - The size of the internal cavity in the `Z` axis. Must be `> 20mm`
 * **WallThickness** - The thickness of the walls of the enclosure. 
 * **ExternalChamfer** - The radius of the external filet that surrounds the box. Must be `<= WallThickness`.
-* **Meadow_X** - The distance from the bottom left internal corner to the Meadow along the `X` axis. Must be `> 0.5mm`, in order to give the Meadow enough clearance, though the recommended minimum is `~5mm` to make it easier to put in the heat-set inserts.
-* **Meadow_Y** - The distance from the bottom left internal corner to the Meadow along the `Y` axis. Must be `> 0.5mm`, in order to give the Meadow enough clearance, though the recommended minimum is `~5mm` to make it easier to put in the heat-set inserts.
+* **Meadow_X** - The distance from the bottom left internal corner to the Meadow along the `X` axis. Must be `> 0.5mm`, in order to give the Meadow enough clearance, though the recommended minimum is `~2mm` to make it easier to put in the heat-set inserts.
+* **Meadow_Y** - The distance from the bottom left internal corner to the Meadow along the `Y` axis. Must be `> 0.5mm`, in order to give the Meadow enough clearance, though the recommended minimum is `~2mm` to make it easier to put in the heat-set inserts.
 
 To edit parameters, open the model in Fusion 360 and choose **Modify > Change Parameters**:
 
