@@ -2,6 +2,8 @@
 
 A 3D printable, easily modifiable Meadow F7 enclosure. To modify, first modify the existing parameters, and then add your desired features.
 
+![](Meadow_Parametric_Enclosure_Open+Closed_Photo.jpg)
+
 ![](Meadow_Parametric_Enclosure_Open.png)
 ![](Meadow_Parametric_Enclosure_Closed.png)
 
@@ -14,8 +16,8 @@ This enclosure is easily modifable with the following parameters/variables (all 
 * **InternalHeight** - The size of the internal cavity in the `Z` axis.
 * **WallThickness** - The thickness of the walls of the enclosure. 
 * **ExternalChamfer** - The radius of the external filet that surrounds the box. Must be `<= WallThickness`.
-* **Meadow_X** - The distance from the bottom left internal corner of the bolt hole of the Meadow along the `X` axis. Must be `> 3mm`.
-* **Meadow_Y** - The distance from the bottom left internal corner of the bolt hole of the Meadow along the `Y` axis. Must be `>3mm`.
+* **Meadow_X** - The distance from the bottom left internal corner to the Meadow along the `X` axis. Must be `> 0.5mm`, in order to give the Meadow enough clearance, though the recommended minimum is `~5mm` to make it easier to put in the heat-set inserts.
+* **Meadow_Y** - The distance from the bottom left internal corner to the Meadow along the `Y` axis. Must be `> 0.5mm`, in order to give the Meadow enough clearance, though the recommended minimum is `~5mm` to make it easier to put in the heat-set inserts.
 
 To edit parameters, open the model in Fusion 360 and choose **Modify > Change Parameters**:
 
@@ -30,7 +32,7 @@ The enclosure is intended to be used with M2 heat-set inserts and M2x4mm socket 
 To assemble the enclosure, you'll need:
 
  * **(8) M2x4mm Socket Head Screws** - These are fairly common screws, and can be had from [Amazon](https://www.amazon.com/s?k=m2x4mm+socket+head+screws&ref=nb_sb_noss), or in bulk from [AliExpress](https://www.aliexpress.com/item/32945000745.html?spm=2114.12010612.8148356.1.6ce27cadoinlmg).
- * **(8) M2 non-tapered heat set inserts** - The holes in the model are already tapered, so you can use the cheap (non-tapered) knurled M2 inserts. You can find them on [Amazon](https://www.amazon.com/s?k=m2+inserts&ref=nb_sb_noss_1) or in bulk at [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200629100233&origin=y&SearchText=m2+knurled+inserts):
+ * **(8) M2 non-tapered heat set inserts** - The holes in the model are already tapered, so you can use the cheap (non-tapered) knurled M2 inserts. You can find them on [Amazon](https://www.amazon.com/s?k=m2+inserts&ref=nb_sb_noss_1) or in bulk at [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200629100233&origin=y&SearchText=m2+knurled+inserts). Make sure not to get tapered ones:
    ![](M2_Inserts.jpg)
    
 ### Heat-set Insert Installation

@@ -9,6 +9,13 @@ Building an enclosure or integrating Meadow into project? These models can help 
 ![](Meadow/Reference_Models/Meadow_F7_Micro_F360.png)
 ![](Meadow/Reference_Models/Meadow_F7_Micro_w_Dimensions.png)
 
+## [Meadow Parametric Enclosure](Meadow/Enclosures/Meadow_F7_Parametric_Enclosure)
+
+A 3D printable, easily modifiable Meadow F7 enclosure that can be used as a base for additional features:
+
+![](Meadow_Parametric_Enclosure_Open+Closed_Photo.jpg)
+
+
 ## [Baseboards](Baseboards/)
 
 Check out our cool [baseboards](Baseboards/) for quick prototyping!
