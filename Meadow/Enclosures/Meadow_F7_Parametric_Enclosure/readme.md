@@ -2,7 +2,8 @@
 
 A 3D printable, easily modifiable Meadow F7 enclosure. To modify, first modify the existing parameters, and then add your desired features.
 
-![](Meadow_Paramteric_Enclosure_Photo.jpg)
+![](Meadow_Parametric_Enclosure_Open.png)
+![](Meadow_Parametric_Enclosure_Closed.png)
 
 ## Parameters
 
@@ -24,7 +25,7 @@ To edit parameters, open the model in Fusion 360 and choose **Modify > Change Pa
 
 The enclosure is intended to be used with M2 heat-set inserts and M2x4mm socket head screws:
 
-![](Meadow_Parametric_Enclosure_Open.png)
+![](Meadow_Parametric_Enclosure_Photo.jpg)
 
 To assemble the enclosure, you'll need:
 
