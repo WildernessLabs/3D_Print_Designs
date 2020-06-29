@@ -20,7 +20,21 @@ To edit parameters, open the model in Fusion 360 and choose **Modify > Change Pa
 
 ![](Show_Parameters.png)
 
-## Model
+## Enclosure Assembly
+
+The enclosure is intended to be used with M2 heat-set inserts and M2x4mm socket head screws:
 
 ![](Meadow_Parametric_Enclosure_Open.png)
-![](Meadow_Parametric_Enclosure_Closed.png)
+
+To assemble the enclosure, you'll need:
+
+ * **(8) M2x4mm Socket Head Screws** - These are fairly common screws, and can be had from [Amazon](https://www.amazon.com/s?k=m2x4mm+socket+head+screws&ref=nb_sb_noss), or in bulk from [AliExpress](https://www.aliexpress.com/item/32945000745.html?spm=2114.12010612.8148356.1.6ce27cadoinlmg).
+ * **(8) M2 non-tapered heat set inserts** - The holes in the model are already tapered, so you can use the cheap (non-tapered) knurled M2 inserts. You can find them on [Amazon](https://www.amazon.com/s?k=m2+inserts&ref=nb_sb_noss_1) or in bulk at [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200629100233&origin=y&SearchText=m2+knurled+inserts):
+   ![](M2_Inserts.jpg)
+   
+### Heat-set Insert Installation
+
+Hackaday has a [fantastic article on using heat-set inserts](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/). If you plan on using a heat-set insert soldering iron attachment, I haven't been able to find any that work with M2 (M3 is the smallest size I've seen), but you can file down an M3 tip to fit M2 inserts pretty easily. I've also had good luck using a regular flat soldering iron tip.
+
+
+
