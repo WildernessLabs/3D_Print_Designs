@@ -23,6 +23,12 @@ To edit parameters, open the model in Fusion 360 and choose **Modify > Change Pa
 
 ![](Show_Parameters.png)
 
+## [Prebuilt STL Outputs](Prebuilt_STL_Outputs)
+
+If you just need a quick project box, we have output some stock sizes as STL files (ready for 3D printing) in the [Prebuilt_STL_Outputs folder](Prebuilt_STL_Outputs). The STL files are in pairs of top/bottom files, and the dimensions are encoded in the file name. 
+
+For instance, the `Meadow_Enclosure_Bottom_w78_d28_h18_wall2_minimum.stl` and `Meadow_Enclosure_Top_w78_d28_h18_wall2_minimum.stl` files are of the minimum sized box of **width:**`28mm`, **depth**:`28mm`, **height:**`18mm`, and **wall thickness**:`2mm`.
+
 ## Enclosure Assembly
 
 The enclosure is intended to be used with M2 heat-set inserts and M2x4mm socket head screws:
