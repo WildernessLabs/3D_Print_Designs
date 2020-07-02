@@ -13,7 +13,7 @@ Building an enclosure or integrating Meadow into project? These models can help 
 
 A 3D printable, easily modifiable Meadow F7 enclosure that can be used as a base for additional features:
 
-![](Meadow_Parametric_Enclosure_Open+Closed_Photo.jpg)
+![](Meadow/Enclosures/Meadow_F7_Parametric_Enclosure/Meadow_Parametric_Enclosure_Open+Closed_Photo.jpg)
 
 
 ## [Baseboards](Baseboards/)
