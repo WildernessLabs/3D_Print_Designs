@@ -15,6 +15,11 @@ A 3D printable, easily modifiable Meadow F7 enclosure that can be used as a base
 
 ![](Meadow/Enclosures/Meadow_F7_Parametric_Enclosure/Meadow_Parametric_Enclosure_Open+Closed_Photo.jpg)
 
+## [Project Lab Enclosure](https://github.com/WildernessLabs/Meadow.ProjectLab/tree/main/Design/Enclosure/STLs_For_Printing)
+
+A 3D printable [enclosure for the Project Lab IoT prototyping platform](https://github.com/WildernessLabs/Meadow.ProjectLab/tree/main/Design/Enclosure/STLs_For_Printing). The enclosure frames the LCD and allows access to the Project Lab board's ports and connectors. Openings are available for the USB-C port for power and code deployment. There are also openings to connect to the two mikroBUS sockets, three Grove connectors, the Qwiic connector, and all screw terminals (RS-485, I/O, and power).
+
+![Project Lab v3 board inside a black 3D-printed enclosure.](ProjLab/Enclosures/ProjectLabV3Enclosure.jpg)
 
 ## [Baseboards](Baseboards/)
 
